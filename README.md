@@ -4,7 +4,7 @@ Gauge information was extracted and used for gating the structural information f
 
 The initial Zoom-in part was masked in training.
 
-NN outputs alpha and beta for the Beta-distribution, so that the mean and std of action are state-dependently determined.
+NN outputs alpha and beta for the Beta-distribution (both are larger than 1), so that the mean and std of action are state-dependently determined.
 
 The Jupyter notebook file and trained parameters (~900 reward per 1,000 steps) were uploaded.
 
